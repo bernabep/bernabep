@@ -1,4 +1,9 @@
 # 👋 ¡Hola! Soy Bernabé Pando Fernández
+🤖🤖🤖🤖 ¿TE GUSTAN LOS ENJAMBRES? 🤖🤖🤖🤖🤖
+http://swarm-ia.duckdns.org:3000/login 
+
+
+
 ### Lenguajes
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -41,6 +46,7 @@ Con una mentalidad analítica y pasión por la tecnología, estoy en busca de op
 ---
 
 ### 🌟 **Proyectos destacados**
+- VISITA MI NUEVO PROYECTO - http://swarm-ia.duckdns.org:3000/login
 - 📊 **Análisis Ventas Globales:** Diseñé y construí un tablero en Power BI para visualizar las tendencias y proyecciones de ventas.
 - 🐍 **Automatización de Procesos:** Script en Python que optimizó el tiempo de análisis de datos en un 30%.
 - 🗂️ **Gestor de Base de Datos:** Consultas avanzadas en MySQL para una empresa de e-commerce.
