@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Bernabé Pando Fernández
 🤖🤖🤖🤖 ¿TE GUSTAN LOS ENJAMBRES? 🤖🤖🤖🤖🤖
-https://swarm-ia.duckdns.org:3000/login 
+https://swarm-ia.duckdns.org/login 
 
 
 
