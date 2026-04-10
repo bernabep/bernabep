@@ -46,7 +46,7 @@ Con una mentalidad analítica y pasión por la tecnología, estoy en busca de op
 ---
 
 ### 🌟 **Proyectos destacados**
-- VISITA MI NUEVO PROYECTO - http://swarm-ia.duckdns.org:3000/login
+- VISITA MI NUEVO PROYECTO - https://swarm-ia.duckdns.org/login
 - 📊 **Análisis Ventas Globales:** Diseñé y construí un tablero en Power BI para visualizar las tendencias y proyecciones de ventas.
 - 🐍 **Automatización de Procesos:** Script en Python que optimizó el tiempo de análisis de datos en un 30%.
 - 🗂️ **Gestor de Base de Datos:** Consultas avanzadas en MySQL para una empresa de e-commerce.
